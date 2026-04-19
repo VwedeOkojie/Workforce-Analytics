@@ -1,0 +1,5 @@
+department_id,department_name,location,headcount_target,manager_id
+D001,Production Line A,Plant Floor 1,12,M001
+D002,Production Line B,Plant Floor 2,11,M002
+D003,Packaging & Distribution,Warehouse,11,M003
+D004,Quality Assurance,Lab & Floor,10,M004
