@@ -147,7 +147,6 @@ Visuals:
 - 34.5 total overtime hours recorded across the period
 - 14.5 hours (42%) of overtime was unapproved — a significant compliance risk
 - Tom Wallace has the highest unapproved overtime at 2.5 hours — requires manager follow-up
-- 14 late arrival incidents recorded — Marcus Lee has the highest accumulated late minutes
 
 **Employee Relations**
 <img width="1128" height="561" alt="image" src="https://github.com/user-attachments/assets/0f21fea7-a686-4543-a184-558ca0aae834" />
@@ -155,6 +154,7 @@ Visuals:
 - 9 disciplinary incidents across the period
 - Production Line A and Quality Assurance have the most incidents
 - Nathan Brooks, Oluwaseun Adeyemi, and Zoe Adams each recorded 2 incidents
+- 14 late arrival incidents recorded — Marcus Lee has the highest accumulated late minutes
 - 1 grievance filed — relatively low for the period
 ---
 
