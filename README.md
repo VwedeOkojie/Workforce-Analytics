@@ -20,11 +20,11 @@ The dataset covers 238 workforce transactions across four departments (Productio
 
 | File | Description |
 |---|---|
+| `README.md` | Project overview and findings |
+| `departments_clean.csv` | Clean department reference table (4 rows) |
 | `workforce_transactions_dirty.csv` | Raw dirty workforce transactions dataset (240 rows) |
 | `employees_clean.csv` | Clean employee master reference table (44 rows) |
-| `departments_clean.csv` | Clean department reference table (4 rows) |
 | `workforce_analytics.pbix` | Power BI dashboard file |
-| `README.md` | Project overview and findings |
 
 ---
 
